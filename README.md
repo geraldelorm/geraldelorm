@@ -1,3 +1,4 @@
+[![Complete Intro to Linux and the CLI](/img/dev.jpg)][course]
 # Hello World 👋👨‍💻
 
 <!--

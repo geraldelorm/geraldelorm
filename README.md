@@ -1,4 +1,4 @@
-![DEV](/img/dev.jpg)
+<img src="/img/dev.jpg">
 # Hello World 👋👨‍💻
 
 <!--

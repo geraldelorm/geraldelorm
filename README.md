@@ -1,5 +1,5 @@
 # Hello World 👋👨‍💻
-<img src="https://github.com/geraldelorm/geraldelorm/img/dev.jpg">
+<img src="https://github.com/geraldelorm/geraldelorm/blob/master/img/dev.jpg">
 
 <!--
 **geraldelorm/geraldelorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

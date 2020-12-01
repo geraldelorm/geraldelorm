@@ -1,4 +1,4 @@
-# Hello World 👋👨‍💻
+# Hello World!
 <!-- <img src="https://github.com/geraldelorm/geraldelorm/blob/master/img/dev.jpg"> -->
 
 <!--

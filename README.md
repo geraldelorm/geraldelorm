@@ -1,5 +1,6 @@
 # Hello World!
 <!-- <img src="https://github.com/geraldelorm/geraldelorm/blob/master/img/dev.jpg"> -->
+![Gerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&theme=nightowl)
 
 <!--
 **geraldelorm/geraldelorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

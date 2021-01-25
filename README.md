@@ -9,6 +9,7 @@ I work mostly with Javascript, Django, and SQL.
 ## Where to find me
 
 I'm mostly on Twitter ([@geraldelorm](https://twitter.com/geraldelorm)).
+I write on my ([DEV](https://dev.to/geraldelorm)) blog quite often.
 <!-- <img src="https://github.com/geraldelorm/geraldelorm/blob/master/img/dev.jpg">
 ![Gerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&theme=nightowl)
  -->

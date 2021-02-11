@@ -2,7 +2,7 @@
 
 ## I'm Gerald Elorm Gbagbe and I ❤️ web development!
 
-👋🏽Hi, I’m currently undertaking the final year of my Higher National Diploma(HND) in Computer Science, and I’m open for job opportunities.
+Hi, I’m currently undertaking the final year of my Higher National Diploma(HND) in Computer Science, and I’m open for job opportunities.
 
 I work mostly with Javascript, Django, and SQL.
 

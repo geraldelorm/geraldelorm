@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋🏼, I'm Gerald</h1>
-If you're here, then you should get to know me - I'm Gerald; a Developer/Designer who loves to solve problems using skills and technologies I have picked up over time.
+# If you're here, then you should get to know me - I'm Gerald; a Developer/Designer who loves to solve problems using skills and technologies I have picked up over time.
 
 
 - 📫 If you'd like to work together or want to start a conversation, reach out to me: `geraldelorm14@gmail.com`
 
 - 📄 [Resume](https://docs.google.com/document/d/1XtlS6mGDNBKPTBHRoGBJU2gkk2swU5ZeAlG6h6YYDh4/edit)
+- 🌍 [geraldelorm.tech](https://geraldelorm.tech)
 
 <h3 align="left">Languages and Tools I work with:</h3>
 
@@ -30,9 +31,7 @@ If you're here, then you should get to know me - I'm Gerald; a Developer/Designe
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ### Design Tools
-| 𝗙𝗜𝗚𝗠𝗔 |
  <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> 
-
 
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&locale=en" alt="geraldelorm" /></p>

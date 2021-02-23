@@ -34,8 +34,8 @@ If you're here, then you should get to know me - I'm Gerald; a Developer/Designe
  <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> 
  
  ### LETS CONNECT:
- -[Twitter](https://twitter.com/geraldelorm)
- -[LinkedIn](https://www.linkedin.com/in/geraldelorm/)
+ - [Twitter](https://twitter.com/geraldelorm)
+ - [LinkedIn](https://www.linkedin.com/in/geraldelorm/)
 
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&locale=en" alt="geraldelorm" /></p>

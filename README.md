@@ -18,6 +18,7 @@ If you're here, then you should get to know me - I'm Gerald; a Developer/Designe
 
 ### Software Libraries & Frameworks
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap)](https://bootstrap)
+[![TailwindCSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind)](https://tailwind)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/-Express-eee?style=flat-square&logo=express)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)](https://Reactjs.org)

@@ -44,4 +44,4 @@ If you're here, then you should get to know me - I'm Gerald; a Developer/Designe
 |<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gerald's DEV Profile" height="30" width="30">|[<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/TracyCss)  | [<img  height="20px" width = "30px" src="https://cdn.svgporn.com/logos/github-icon.svg">](https://github.com/muchirijane)  |  [<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/gitlab.svg">](https://gitlab.com/muchirijane) |  [<img  width = "30px" height="20px" src="https://cdn.svgporn.com/logos/codepen-icon.svg">](https://codepen.io/tracey_jane) | [<img width = "30px"  height="20px" 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&locale=en" alt="geraldelorm" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&locale=en" alt="geraldelorm" /></p>

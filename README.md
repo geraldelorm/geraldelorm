@@ -35,7 +35,7 @@ I am a software and machine learning engineer with over six years of experience 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Tools
+### Design Tools
 | 𝗙𝗜𝗚𝗠𝗔 | Adobe XD |
 | ------------- | ------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/adobe.svg"> |
@@ -47,4 +47,4 @@ I am a software and machine learning engineer with over six years of experience 
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temilaj&show_icons=true&locale=en&layout=compact" alt="temilaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temilaj&show_icons=true&locale=en" alt="temilaj" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&locale=en" alt="geraldelorm" /></p> -->

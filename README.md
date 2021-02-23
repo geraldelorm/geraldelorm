@@ -25,7 +25,7 @@ If you're here, then you should get to know me - I'm Gerald; a Developer/Designe
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=Postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![FireBase](https://img.shields.io/badge/-Firebase-fff?style=flat-square&logo=firebase)](https://firebase.google.com/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github), and many more.
 ### Design Tool
  <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> 
  
@@ -34,4 +34,4 @@ If you're here, then you should get to know me - I'm Gerald; a Developer/Designe
  - [LinkedIn](https://www.linkedin.com/in/geraldelorm/)
 
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&locale=en" alt="geraldelorm" /></p>
+<!--<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&locale=en" alt="geraldelorm" /></p>-->

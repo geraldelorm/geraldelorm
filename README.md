@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Gerald</h1>
-I am a software and machine learning engineer with over six years of experience working on full-stack web  and mobile technologies in companies like <a href="https://www.coursera.org/" rel="noopener" target="_blank">Coursera</a> , <a href="https://www.andela.com/" rel="noopener" target="_blank">Andela</a> , and more. Recently, I decided to expand my interest in leveraging technology to advance human potential, by pursuing a master's degree in Computer Science (focusing on Artificial Intelligence) at <a href="https://www.bu.edu/" rel="noopener" target="_blank">Boston University</a></h3>
-
+If you're here, then you should get to know me - I'm Gerald; a Developer/Designer who loves to solve problems using skills and technologies I have picked up over time.
 
 
 - 📫 How to reach me: `geraldelorm14@gmail.com`
@@ -18,7 +17,7 @@ I am a software and machine learning engineer with over six years of experience 
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat-square&logo=MySQL&logoColor=4479A1)
 
 ### Software Libraries & Frameworks
-
+[![Bootstrap](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/-Express-eee?style=flat-square&logo=express)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)](https://Reactjs.org)
@@ -36,15 +35,13 @@ I am a software and machine learning engineer with over six years of experience 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Design Tools
-| 𝗙𝗜𝗚𝗠𝗔 | Adobe XD |
-| ------------- | ------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/adobe.svg"> |
+| 𝗙𝗜𝗚𝗠𝗔 |
+| ------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> |
 
 
-<!-- ![Profile views](https://gpvc.arturio.dev/temilaj) -->
+#### Get in touch with me
+|<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gerald's DEV Profile" height="30" width="30">|[<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/TracyCss)  | [<img  height="20px" width = "30px" src="https://cdn.svgporn.com/logos/github-icon.svg">](https://github.com/muchirijane)  |  [<img width = "30px" height="20px" src="https://cdn.svgporn.com/logos/gitlab.svg">](https://gitlab.com/muchirijane) |  [<img  width = "30px" height="20px" src="https://cdn.svgporn.com/logos/codepen-icon.svg">](https://codepen.io/tracey_jane) | [<img width = "30px"  height="20px" 
 
-<!-- <br />
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temilaj&show_icons=true&locale=en&layout=compact" alt="temilaj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&locale=en" alt="geraldelorm" /></p> -->

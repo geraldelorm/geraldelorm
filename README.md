@@ -22,7 +22,7 @@ If you're here, then you should get to know me - I'm Gerald; a Developer/Designe
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/-Express-eee?style=flat-square&logo=express)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)](https://Reactjs.org)
-[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)](https://Django)
+[![Django](https://img.shields.io/badge/-Django-eee?style=flat-square&logo=Django)](https://Django)
 
 
 ### Databases

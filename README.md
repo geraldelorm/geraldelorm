@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Gerald</h1>
-If you're here, then you should get to know me - I'm Gerald; a Developer/Designer who loves to solve problems using skills and technologies I have picked up over time.
+I'm a Developer/Designer who loves to solve problems using my programming skills.
 
 
 - 📫 If you'd like to work together or want to start a conversation, reach out to me: `geraldelorm14@gmail.com`

@@ -27,7 +27,7 @@ I'm a Developer/Designer who loves to solve problems using my programming skills
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) and many more.
 ### Design Tool
- <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg">  <img height="30px" src="https://worldvectorlogo.com/logo/adobe-xd.svg">
+ <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/adobe-xd.svg">
  
  ### LETS CONNECT:
  - [Twitter](https://twitter.com/geraldelorm)

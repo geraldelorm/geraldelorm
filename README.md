@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Gerald</h1>
 I'm a Developer/Designer who loves to solve problems using my programming skills.
 
-
 - 📫 If you'd like to work together or want to start a conversation, reach out to me: `geraldelorm14@gmail.com`
 
 - 📄 [Resume](https://docs.google.com/document/d/1XtlS6mGDNBKPTBHRoGBJU2gkk2swU5ZeAlG6h6YYDh4/edit)

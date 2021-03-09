@@ -24,7 +24,7 @@
 
 
 - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer, while in the final year of my HND in Computer Science.
-- 🤝 Open for collaborations in app developement with javascript and python.
+- 🤝 Open for collaborations in web developement with javascript and python.
 - 🔭 I’m currently working on personal projects as well ...
 - 💬 Ask me about tech, software engineering and music
 - ⚡ Fun fact: 🏀🏀

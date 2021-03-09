@@ -26,10 +26,10 @@
 - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web develioper, while in the final year of my HND in Computer Science.
 - 🤝 Open for collaborations in app developement with javascript and python.
 - 🔭 I’m currently working on personal projects as well ...
-<!-- - 🌱 I’m currently learning Bloc as a state management option
-- 👯 I’m looking to collaborate on flutter or dart projects -->
 - 💬 Ask me about tech, software engineering and music
 - ⚡ Fun fact: 🏀🏀
+ <!-- - 🌱 I’m currently learning Bloc as a state management option
+- 👯 I’m looking to collaborate on flutter or dart projects -->
 
 
 
@@ -37,7 +37,7 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&theme=tokyonight&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geraldelorm&hide=html&theme=tokyonight&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&theme=tokyonight&line_height=25">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geraldelorm&hide=html&theme=tokyonight&line_height=25">
 </p>
 </details>

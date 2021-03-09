@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋🏼, I'm Gerald</h1>
 
-
-I'm a Developer/Designer who loves to solve problems using my programming skills.
-
-- 📫 If you'd like to work together or want to start a conversation, reach out to me: `geraldelorm14@gmail.com`
+<p align='center'>
+<a href="https://twitter.com/geraldelorm">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:geraldelorm14@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/geraldelorm/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+ <a href="https://geraldelorm.tech">
+  <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+</a>&nbsp;&nbsp;
+<!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
+</p>
 
 
 

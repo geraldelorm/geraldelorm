@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Gerald</h1>
 
+
 <p align='center'>
 <a href="https://twitter.com/geraldelorm">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -10,19 +11,26 @@
 <a href="https://www.linkedin.com/in/geraldelorm/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
- <a href="https://geraldelorm.tech">
+<a href="https://geraldelorm.tech">
+  <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://docs.google.com/document/d/1XtlS6mGDNBKPTBHRoGBJU2gkk2swU5ZeAlG6h6YYDh4">
   <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>&nbsp;&nbsp;
 <!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
 </p>
 
+- 👨🏽‍💻 Currently working as a freelance UI/UX designer and web develioper, while in the final year of my HND in Computer Science.
+- 🤝 Open for collaborations in app developement with javascript and python.
+- 🔭 I’m currently working on personal projects as well ...
+<!-- - 🌱 I’m currently learning Bloc as a state management option
+- 👯 I’m looking to collaborate on flutter or dart projects -->
+- 💬 Ask me about tech, software engineering and music
+- ⚡ Fun fact: 🏀🏀
 
 
 
 
-## Lets connect
-[![Twitter Badge](https://img.shields.io/twitter/follow/geraldelorm?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/geraldelorm)](https://twitter.com/geraldelorm) [![Linkedin Badge](https://img.shields.io/badge/-Gerald%20Gbagbe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldelorm/)](https://www.linkedin.com/in/geraldelorm/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://geraldelorm.tech/)](https://geraldelorm.tech/)
 - 📄 [Resume](https://docs.google.com/document/d/1XtlS6mGDNBKPTBHRoGBJU2gkk2swU5ZeAlG6h6YYDh4)
 
 

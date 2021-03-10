@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://docs.google.com/document/d/1XtlS6mGDNBKPTBHRoGBJU2gkk2swU5ZeAlG6h6YYDh4">
-  <img src="https://img.shields.io/badge/Résumé-46a2f1.svg?&style=for-the-badge&logo=Google-Doc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Résumé-46a2f1.svg?&style=for-the-badge&logo=Book&logoColor=white" />
 </a>&nbsp;&nbsp;
 <!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
 </p>

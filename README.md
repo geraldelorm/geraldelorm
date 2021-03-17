@@ -24,7 +24,7 @@
 - 🤝 Open for collaborations in web developement with javascript and python.
 - 🔭 I’m currently working on personal projects as well
 - 💬 Ask me about tech, software engineering and music
-- ⚡ Fun fact: 🏀🏀
+- ⚡ Fun fact: I play basketball🏀
  <!-- - 🌱 I’m currently learning Bloc as a state management option
 - 👯 I’m looking to collaborate on flutter or dart projects -->
 

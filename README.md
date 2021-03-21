@@ -29,7 +29,6 @@
 - 👯 I’m looking to collaborate on flutter or dart projects -->
 
 
-
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>

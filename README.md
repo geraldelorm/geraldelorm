@@ -34,6 +34,6 @@
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&theme=light&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geraldelorm&hide=html&theme=dark&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geraldelorm&hide=html,less&theme=dark&line_height=33">
 </p>
 </details>

@@ -16,6 +16,9 @@
 <!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
 </p>
 
+
+
+
 - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer.
 - 🤝 Open for collaborations in web developement with javascript and python
 - 🔭 I’m currently working on personal projects as well

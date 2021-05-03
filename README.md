@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼, I'm Gerald</h1> 
+<h1 align="center">Hi 👋🏼, I'm Gerald</h1>
 
 <p align='center'> 
 <a href="https://twitter.com/geraldelorm">

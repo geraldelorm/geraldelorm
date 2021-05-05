@@ -16,13 +16,7 @@
 </p>
 
 
-<!-- - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer.
-- 🤝 Open for collaborations on javascript and python projects
-- 🔭 I’m currently working on personal projects as well -->
-- 💬 Ask me about tech, software engineering and music
-- ⚡ Fun fact: I play basketball🏀
- <!-- - 🌱 I’m currently learning Bloc as a state management option
-- 👯 I’m looking to collaborate on flutter or dart projects -->
+
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
@@ -31,3 +25,14 @@
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geraldelorm&hide=html,less&theme=light&line_height=33"> -->
 </p>
 </details>
+
+
+
+
+<!-- - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer.
+- 🤝 Open for collaborations on javascript and python projects
+- 🔭 I’m currently working on personal projects as well -->
+- 💬 Ask me about tech, software engineering and music
+- ⚡ Fun fact: I play basketball🏀
+ <!-- - 🌱 I’m currently learning Bloc as a state management option
+- 👯 I’m looking to collaborate on flutter or dart projects -->

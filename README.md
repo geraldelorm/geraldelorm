@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋🏼, I'm Gerald</h1>
-
 <p align='center'> 
 <a href="https://twitter.com/geraldelorm">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -16,15 +15,7 @@
 <!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
 </p>
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&theme=dark&line_height=33">
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geraldelorm&hide=html,less&theme=light&line_height=33"> -->
 
-</p>
-</details>
 <!-- - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer.
 - 🤝 Open for collaborations on javascript and python projects
 - 🔭 I’m currently working on personal projects as well -->
@@ -32,3 +23,11 @@
 - ⚡ Fun fact: I play basketball🏀
  <!-- - 🌱 I’m currently learning Bloc as a state management option
 - 👯 I’m looking to collaborate on flutter or dart projects -->
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&theme=dark&line_height=33">
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geraldelorm&hide=html,less&theme=light&line_height=33"> -->
+</p>
+</details>

@@ -35,5 +35,5 @@
 </p> -->
 </details>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=geraldelorm" alt="geraldelorm" /> </p>
 

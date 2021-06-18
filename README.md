@@ -17,23 +17,25 @@
 
 
 <!-- - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer.
-- 🤝 Open for collaborations on javascript and python projects
 - 🔭 I’m currently working on personal projects as well -->
 - 💬 Ask me about tech, software engineering and music
+- 🤝 Open for collaborations on projects
 - ⚡ Fun fact: I play basketball🏀
  <!-- - 🌱 I’m currently learning Bloc as a state management option
 - 👯 I’m looking to collaborate on flutter or dart projects -->
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=geraldelorm&show_icons=true&theme=light&line_height=33">
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=geraldelorm" alt="geraldelorm" /> </p>
 </p>
 <!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geraldelorm&hide=html,visualbasicless&theme=dark&layout=compact&line_height=33">
 </p> -->
 </details>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=geraldelorm" alt="geraldelorm" /> </p>
+
 

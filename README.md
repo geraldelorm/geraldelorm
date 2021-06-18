@@ -24,7 +24,7 @@
  <!-- - 🌱 I’m currently learning Bloc as a state management option
 - 👯 I’m looking to collaborate on flutter or dart projects -->
 
-<details open>
+<details >
   <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">

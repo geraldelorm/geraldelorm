@@ -15,7 +15,6 @@
 <!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
 </p>
 
-
 <!-- - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer.
 - 🔭 I’m currently working on personal projects as well -->
 - 💬 Ask me about tech, software engineering and music

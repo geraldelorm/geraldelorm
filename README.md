@@ -9,10 +9,9 @@
 <a href="https://www.linkedin.com/in/geraldelorm/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://geraldelorm.tech">
+<!-- <a href="https://geraldelorm.tech">
   <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-</a>&nbsp;&nbsp;
-<!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
+</a>&nbsp;&nbsp; -->
 </p>
 
 <!-- ----------------------------------------------------------------------------------------------------- -->

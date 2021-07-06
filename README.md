@@ -1,17 +1,20 @@
 <h1 align="center">Hi👋🏼, I'm Gerald</h1>
 <p align='center'> 
-<a href="https://twitter.com/geraldelorm">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:geraldelorm14@gmail.com">
-  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/geraldelorm/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<!-- <a href="https://geraldelorm.tech">
-  <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-</a>&nbsp;&nbsp; --> 
+  <a href="https://twitter.com/geraldelorm">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:geraldelorm14@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/geraldelorm/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <!-- <a href="https://geraldelorm.tech">
+    <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>&nbsp;&nbsp; --> 
+</p>
+<p align = "center">
+  <img src="https://komarev.com/ghpvc/?username=geraldelorm">
 </p>
 
 <!-- ----------------------------------------------------------------------------------------------------- -->

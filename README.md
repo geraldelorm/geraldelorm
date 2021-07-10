@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>&nbsp;&nbsp; --> 
 </p>
-<p align = "center">
+<!-- <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=geraldelorm">
-</p>
+</p> -->
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 

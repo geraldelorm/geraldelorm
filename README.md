@@ -41,4 +41,3 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geraldelorm&hide=html,visualbasicless&theme=dark&layout=compact&line_height=33">
 </p> -->
 <!-- </details> --> 
-

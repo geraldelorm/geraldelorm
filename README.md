@@ -19,7 +19,7 @@
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 
-<!-- - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer.
+<!-- - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer. 
 - 🔭 I’m currently working on personal projects as well -->
 <!-- - 💬 Ask me about tech, software engineering and music
 - 🤝 Open for collaborations on projects

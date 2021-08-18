@@ -27,7 +27,7 @@
  <!-- - 🌱 I’m currently learning Bloc as a state management
 - 👯 I’m looking to collaborate on flutter or dart projects -->
 
-<!-- ----------------------------------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------------------------------------------ -->
 
 <!-- <details open> 
   <summary> 😇 <b>My Github Stats</b>: </summary>

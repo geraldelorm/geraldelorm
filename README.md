@@ -22,7 +22,7 @@
 <!-- - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer. 
 - 🔭 I’m currently working on personal projects as well -->
 <!-- - 💬 Ask me about tech, software engineering and music
-- 🤝 Open for collaborations on projects
+- 🤝 Open for collaborations on projects 
 - 🏀 Fun fact: I enjoy playing basketball and flying drones -->
  <!-- - 🌱 I’m currently learning Bloc as a state management
 - 👯 I’m looking to collaborate on flutter or dart projects -->

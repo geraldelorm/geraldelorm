@@ -16,7 +16,6 @@
 <!-- <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=geraldelorm"> 
 </p> --> 
-
 <!-- ----------------------------------------------------------------------------------------------------- -->
 
 <!-- - 👨🏽‍💻 Currently working as a freelance UI/UX designer and web developer. 
